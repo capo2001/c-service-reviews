@@ -1,0 +1,31 @@
+{
+  "reviews": [
+    {
+      "ticket": "🎫-test",
+      "user": "TestUser#1234",
+      "stars": 5,
+      "feedback": "Super Script! Funktioniert einwandfrei und der Support ist mega schnell. Kann ich nur empfehlen!",
+      "datum": "2025-01-21",
+      "uhrzeit": "14:30:00",
+      "timestamp": 1737467400000
+    },
+    {
+      "ticket": "🎫-purchase",
+      "user": "AnotherUser#5678",
+      "stars": 5,
+      "feedback": "Beste FiveM Scripts die ich je hatte. 0.0ms resmon und super Performance!",
+      "datum": "2025-01-20",
+      "uhrzeit": "18:45:00",
+      "timestamp": 1737396300000
+    },
+    {
+      "ticket": "🎫-support",
+      "user": "HappyCustomer#9999",
+      "stars": 4,
+      "feedback": "Sehr gut! Nur die Installation war etwas kompliziert, aber der Support hat geholfen.",
+      "datum": "2025-01-19",
+      "uhrzeit": "12:15:00",
+      "timestamp": 1737287700000
+    }
+  ]
+}
